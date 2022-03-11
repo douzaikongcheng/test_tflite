@@ -1,0 +1,8 @@
+Executable : D:\android_studio\SDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\YYY\Desktop\android_ori\app\.cxx\cmake\debug\arm64-v8a
+--target
+SuperResolution
+jvmArgs : 
+
